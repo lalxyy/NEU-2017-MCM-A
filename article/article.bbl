@@ -1,0 +1,102 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{宮古市役所2011財政状況資料集}
+\bibauthor{宮古市役所}\@.
+  \bibtitle{平成23年度　財政状況資料集}\bibmark{[EB/OL]}\@.
+  \bibyear{2011}\@.
+  \newline\url{http://www.city.miyako.iwate.jp/data/open/cnt/3/5677/1/H23zaiseijoukyou.pdf}\@.
+
+\bibitem{横須賀市財政白書（平成23年度決算）}
+\bibauthor{横須賀市}\@.
+  \bibtitle{財政白書（平成23年度決算）}\bibmark{[EB/OL]}\@.
+  \bibyear{2012}\@.
+  \newline\url{http://www.city.yokosuka.kanagawa.jp/1610/finas/documents/hakusyo23.pdf}\@.
+
+\bibitem{Kanemoto2010SendaiGDP}
+\bibauthor{KANEMOTO Y}\@. \bibtitle{Metropolitan Employment Area (MEA)
+  Data}\bibmark{[EB/OL]}\@. \bibyear{2011}\@.
+  \newline\url{http://www.csis.u-tokyo.ac.jp/UEA/uea_data_e.htm}\@.
+
+\bibitem{いわき市役所平成23年度決算}
+\bibauthor{いわき市役所}\@.
+  \bibtitle{平成23年度決算}\bibmark{[EB/OL]}\@. \bibyear{2012}\@.
+  \newline\url{http://www.city.iwaki.lg.jp/www/contents/1001000003486/simple/H23_kessann.pdf}\@.
+
+\bibitem{JMA2011TsunamiHeight}
+\bibauthor{日本気象庁}\@.
+  \bibtitle{国内の津波観測施設で観測された津波の観測値}\bibmark{[EB/OL]}\@.
+  \bibyear{2011}\@.
+  \newline\url{http://www.data.jma.go.jp/svd/eqev/data/2011_03_11_tohoku/tsunami_jp.pdf}\@.
+
+\bibitem{JMATsunamiSites}
+\bibauthor{日本気象庁}\@.
+  \bibtitle{気象庁｜津波観測点（東北地方）}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@.
+  \newline\url{http://www.data.jma.go.jp/svd/eqev/data/tsunamimap/}\@.
+
+\bibitem{Miyako2015EarthquakeTsunamiRecord}
+\bibauthor{宮古市役所}\@. \bibtitle{The Great East Japan Earthquake and
+  Tsunami Records of Miyako City}\bibmark{[EB/OL]}\@. \bibyear{2015}\@.
+  \newline\url{http://www.city.miyako.iwate.jp/data/open/cnt/3/5971/1/records_of_miyako_city.pdf}\@.
+
+\bibitem{仙台市役所2017Report}
+\bibauthor{仙台市役所}\@.
+  \bibtitle{東日本大震災における本市の被害状況等}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@.
+  \newline\url{https://www.city.sendai.jp/okyutaisaku/shise/daishinsai/higai.html}\@.
+
+\bibitem{いわき市役所2015災害対策本部週報}
+\bibauthor{いわき市役所}\@.
+  \bibtitle{いわき市災害対策本部週報}\bibmark{[EB/OL]}\@.
+  \bibyear{2015}\@.
+  \newline\url{http://www.city.iwaki.lg.jp/www/contents/1449132951986/simple/higai0524.pdf}\@.
+
+\bibitem{横須賀市2011東日本大震災関連情報}
+\bibauthor{横須賀市}\@.
+  \bibtitle{東日本大震災関連情報}\bibmark{[EB/OL]}\@.
+  \bibyear{2011}\@.
+  \newline\url{http://www.city.yokosuka.kanagawa.jp/shinsai311/index.html}\@.
+
+\bibitem{NASA2011JapanMoving}
+\bibauthor{NASA}\@. \bibtitle{Japan's Coastline Before and After the
+  Tsunami}\bibmark{[EB/OL]}\@. \bibyear{2011}\@.
+  \newline\url{https://www.nasa.gov/multimedia/imagegallery/image_feature_1893.html}\@.
+
+\bibitem{傅再扬2007福建地震灾害损失计算分析与思考}
+\bibauthor{傅再扬\@, 危福泉\@, 林岩钊}\@.
+  \bibtitle{福建地震灾害损失计算分析与思考}\bibmark{[J]}\@.
+  \bibjournal{灾害学}\@, \bibyear{2007}\@,
+  \bibvolume{22}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{90\thinspace{}\textnormal{--}\thinspace{}93}\@.
+
+\bibitem{papadopoulos2001proposal}
+\bibauthor{PAPADOPOULOS G~A\@, IMAMURA F}\@. \bibtitle{A proposal for a new
+  tsunami intensity scale}\bibmark{[C]} //\thinspace{}\bibbooktitle{ITS 2001
+  proceedings}\@. \bibyear{2001}\thinspace{}\textnormal{:
+  }\bibpages{569\thinspace{}\textnormal{--}\thinspace{}577}\@.
+
+\end{thebibliography}
